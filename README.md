@@ -1,5 +1,4 @@
 Membuat Machine Learning Sederhana untuk Memprediksi Suhu
-<img width="960" alt="2023-07-13 (2)" src="https://github.com/Sempana22/UAS_KCERDASAN_BUATAN/assets/156122153/f5949393-c05b-40f1-b232-e085cc6b5a73">
 
 Anggota Kelompok :
 1. Mukhammad Nur Muzammil   (32602100093)
